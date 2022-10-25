@@ -1,0 +1,5 @@
+C:\Users\mique\Desktop\DAM2\Interfícies\Puzle\Puzle\bin\publish\Puzle.exe
+C:\Users\mique\Desktop\DAM2\Interfícies\Puzle\Puzle\bin\publish\Puzle.dll
+C:\Users\mique\Desktop\DAM2\Interfícies\Puzle\Puzle\bin\publish\Puzle.deps.json
+C:\Users\mique\Desktop\DAM2\Interfícies\Puzle\Puzle\bin\publish\Puzle.runtimeconfig.json
+C:\Users\mique\Desktop\DAM2\Interfícies\Puzle\Puzle\bin\publish\Puzle.pdb
